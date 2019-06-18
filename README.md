@@ -1,8 +1,8 @@
 # HRS
-In this project I tried to simplify the basics of OOP by implementing a very simple and direct structure of HR system
+In this project I tried to simplify the basics of OOP by implementing a very simple and direct structure of HR system.
 The project consists mainly of the main abstract class called BaseEmployee which contains general properties and functionalities of an employee.
 
-There are four different types of employees each of which has it's own class and implementation, and inherits a general behavior from the BaseEmployee Class.
+There are four different types of employees each of which has its own class and implementation, and inherits a general behavior from the BaseEmployee Class.
 
 The four types are:
 
