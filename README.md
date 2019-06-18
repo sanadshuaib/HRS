@@ -1,4 +1,4 @@
-# HRS
+# HRS [![Build Status](https://travis-ci.com/sanadshuaib/HRS.svg?branch=master)](https://travis-ci.com/sanadshuaib/HRS.svg)
 In this project I tried to simplify the basics of OOP by implementing a very simple and direct structure of HR system.
 The project consists mainly of the main abstract class called BaseEmployee which contains general properties and functionalities of an employee.
 
