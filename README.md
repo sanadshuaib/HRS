@@ -13,3 +13,7 @@ The four types are:
 3-Manager   -> Represents a typical manager
 
 4-CEO       -> Represents a typical CEO
+
+Then we have the AccountingDepartment class which contains accounting functionalities and is independent of the HR department classes.
+
+The EmployeeBook class represents a very simple version of Archiving system that collaborates with the HR system.
